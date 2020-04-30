@@ -12,7 +12,7 @@
     "angular-route": "1.7.x",
     "boostrap": "^2.0.0",
     "bootstrap": "4.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "json": "^9.0.6",
     "mongodb": "^3.2.6"
   },
